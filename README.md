@@ -14,7 +14,7 @@
 </div>
 
 # <div align="center">Detecting Parkinson's Disease using Machine Learning</div>
-<div align="center"><img src="https://github.com/Pradnya1208/Detecting-Parkinsons-Disease/blob/main/output/intro2.gif?raw=true" width="90%"></div>
+<div align="center"><img src="https://github.com/Pradnya1208/Detecting-Parkinsons-Disease/blob/main/output/intro2.gif?raw=true" width="60%"></div>
 
 
 ## Overview:
